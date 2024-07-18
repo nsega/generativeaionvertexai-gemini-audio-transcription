@@ -1,6 +1,6 @@
 module github.com/nsega/generativeaionvertexai-gemini-audio-transcription
 
-go 1.23rc1
+go 1.23rc2
 
 require cloud.google.com/go/vertexai v0.12.0
 
